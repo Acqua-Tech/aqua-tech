@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"> <!-- Specify UTF-8 encoding -->
+    <title>Requisitar Imagem</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        #fetchImage {
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            padding: 15px 30px; /* Increase padding for the button */
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        #fetchImage:hover {
+            background-color: #0056b3;
+        }
+
+        #imageContainer {
+            margin-top: 20px;
+        }
+
+        #aiInput {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Requisitar Imagem</h1>
+    
+    <!-- Input field for AI image options -->
+    <div id="aiInput">
+        <label for="aiOption">Digite uma opção:</label>
+        <input type="text" id="aiOption" placeholder="Ex: starfish child cartoon">
+    </div>
+    
+    <!-- Botão para fazer a solicitação -->
+    <button id="fetchImage">Obter Imagem</button>
+    
+    <!-- Espaço para exibir a imagem -->
+    <div id="imageContainer">
+        <!-- A imagem será exibida aqui -->
+    </div>
+    
+    <script>
+        document.getElementById("fetchImage").addEventListener("click", function() {
+            // Obter o valor digitado no campo de entrada
+            const inputOption = document.getElementById("aiOption").value;
+
+            // Fazer a solicitação à API com a opção digitada
+            fetchImage(inputOption);
+        });
+
+        function fetchImage(option) {
+            // Fazer a solicitação à API usando o código Python que você forneceu
+            fetch("https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0", {
+                method: "POST",
+                headers: {
+                    "Authorization": "Bearer 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",
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    "inputs": option
+                })
+            })
+            .then(response => response.blob()) // Obtém o conteúdo como um blob
+            .then(blob => {
+                // Cria um objeto URL para o blob
+                const imageURL = URL.createObjectURL(blob);
+                
+                // Exibir a imagem retornada no elemento imageContainer
+                const imageContainer = document.getElementById("imageContainer");
+                imageContainer.innerHTML = `<img src="${imageURL}" alt="Imagem">`;
+            })
+            .catch(error => {
+                console.error("Erro ao obter imagem:", error);
+            });
+        }
+    </script>
+</body>
+</html>
