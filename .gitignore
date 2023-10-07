@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-*.ipynb
-venv
-.env
-=======
 map/exploring.ipynb
 venv
 .env
 *.svg
 *.png
->>>>>>> recovered-branch
+
