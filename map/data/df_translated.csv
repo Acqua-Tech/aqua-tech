@@ -1,0 +1,1079 @@
+group,family,simplified_species,commum_name,threat_category,acronym_threat_category,presence_in_protected_areas,national_action_plan_for_conservation_,fishing_planning,level_of_protection_in_the_national_strategy,exclusive_species_of_brazil,occurrence_states_y,main_threats_y,biome,category
+Marine Fish,Achiridae,Achirus mucuri,Halibut,Vulnerable (VU),VU,Yes,No,No,1.0,Yes,BA,Agriculture,Atlantic Forest,Invertebrates and Crustaceans
+Marine Fish,Achiridae,Achirus mucuri,Halibut,Vulnerable (VU),VU,Yes,No,No,1.0,Yes,BA,Pollution,Atlantic Forest,Invertebrates and Crustaceans
+Marine Fish,Achiridae,Achirus mucuri,Halibut,Vulnerable (VU),VU,Yes,No,No,1.0,Yes,BA,Wildfires,Atlantic Forest,Invertebrates and Crustaceans
+Aquatic Invertebrates,Aeglidae,Aegla brevipalma,Egla,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SC,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla camargoi,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla camargoi,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla cavernicola,Egla,Critically Endangered (CR),CR,Yes,No,No,2.0,Yes,SP,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla franca,Egla,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,MG,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla franca,Egla,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SP,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla grisella,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,RS,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla inconspicua,Egla,Vulnerable (VU),VU,Yes,Yes,No,1.0,Yes,RS,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla inconspicua,Egla,Vulnerable (VU),VU,Yes,Yes,No,1.0,Yes,RS,Fishing,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla inermis,Egla,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,RS,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla inermis,Egla,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,RS,Fishing,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla itacolomiensis,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Agriculture,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla itacolomiensis,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Agriculture,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla itacolomiensis,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Human Settlement,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla itacolomiensis,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Human Settlement,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla lata,Egla,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,PR,Agriculture,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla lata,Egla,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,PR,Tourism,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla leachi,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Mining,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla leptochela,Egla,Critically Endangered (CR),CR,No,No,No,1.0,Yes,SP,Agriculture,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla leptochela,Egla,Critically Endangered (CR),CR,No,No,No,1.0,Yes,SP,Human Settlement,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla leptochela,Egla,Critically Endangered (CR),CR,No,No,No,1.0,Yes,SP,Mining,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla leptochela,Egla,Critically Endangered (CR),CR,No,No,No,1.0,Yes,SP,Energy production,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla leptodactyla,Egla,Vulnerable (VU),VU,Yes,Yes,No,1.0,Yes,RS,Agriculture,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla leptodactyla,Egla,Vulnerable (VU),VU,Yes,Yes,No,1.0,Yes,SC,Agriculture,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla ligulata,Egla,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,RS,Agriculture,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla manuinflata,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Energy production,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla manuinflata,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Energy production,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla microphthalma,Egla,Critically Endangered (CR),CR,Yes,No,No,2.0,Yes,SP,Energy production,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla oblata,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla obstipa,Egla,Endangered (EN),EN,No,No,No,0.0,Yes,RS,Pollution,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla perobae,Egla,Critically Endangered (CR),CR,Yes,Yes,No,2.0,Yes,SP,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla plana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Human Settlement,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla plana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Human Settlement,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla plana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Transport,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla plana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Transport,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla plana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla plana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Pollution,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla pomerana,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Human Settlement,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla pomerana,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Transport,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla pomerana,Egla,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla renana,Egla,Critically Endangered (CR),CR,Yes,Yes,No,1.0,Yes,RS,Energy production,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Fishing,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Tourism,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Tourism,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Pollution,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,SC,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,SC,Fishing,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,SC,Tourism,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,SC,Tourism,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,SC,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla rossiana,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,SC,Pollution,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinipalma,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,RS,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinipalma,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,RS,Fishing,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinipalma,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,RS,Tourism,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinipalma,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,RS,Tourism,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinipalma,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,RS,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinipalma,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,RS,Pollution,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinosa,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,RS,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinosa,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,RS,Tourism,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinosa,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,RS,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinosa,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,SC,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinosa,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,SC,Tourism,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla spinosa,Egla,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,SC,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla strinatii,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,PR,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla strinatii,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,PR,Tourism,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla strinatii,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,PR,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla strinatii,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,SP,Fishing,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla strinatii,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,SP,Tourism,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla strinatii,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,SP,Pollution,Atlantic Forest,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla violacea,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Fishing,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla violacea,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Tourism,Pampa,Arthropods
+Aquatic Invertebrates,Aeglidae,Aegla violacea,Egla,Endangered (EN),EN,Yes,Yes,No,1.0,Yes,RS,Pollution,Pampa,Arthropods
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MT,Fishing,Amazon,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MT,Fishing,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MT,Tourism,Amazon,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MT,Tourism,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MT,Pollution,Amazon,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MT,Pollution,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,PA,Fishing,Amazon,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,PA,Fishing,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,PA,Tourism,Amazon,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,PA,Tourism,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,PA,Pollution,Amazon,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,PA,Pollution,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,TO,Fishing,Amazon,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,TO,Fishing,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,TO,Tourism,Amazon,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,TO,Tourism,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,TO,Pollution,Amazon,Fish
+Freshwater Fish,Pimelodidae,Aguarunichthys tocantinsensis,Catfish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,TO,Pollution,Cerrado,Fish
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,AL,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,AL,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,AP,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,AP,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,BA,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,BA,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,CE,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,CE,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,ES,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,ES,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,MA,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,MA,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PA,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PA,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PB,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PB,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PE,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PE,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PI,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PI,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PR,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PR,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,RJ,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,RJ,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,RN,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,RN,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,RS,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,SC,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,SC,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,SE,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,SE,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,SP,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias superciliosus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,SP,Transport,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,AL,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,AP,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,BA,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,CE,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,ES,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,MA,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PA,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PB,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PE,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PI,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,PR,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,RJ,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,RN,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,SC,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,SE,Agriculture,Marine,Sharks
+Marine Fish,Alopiidae,Alopias vulpinus,Fox Shark,Vulnerable (VU),VU,Yes,Yes,Yes,4.0,No,SP,Agriculture,Marine,Sharks
+Freshwater Fish,Rivulidae,Anablepsoides cearensis,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,Yes,CE,Exotic Species,Caatinga,Fish
+Freshwater Fish,Rivulidae,Anablepsoides cearensis,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,Yes,CE,Energy production,Caatinga,Fish
+Freshwater Fish,Loricariidae,Ancistrus cryptophthalmus,Cave Pygmy Suckerfish,Endangered (EN),EN,Yes,No,No,2.0,Yes,GO,Fishing,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Ancistrus formoso,Blind Suckerfish,Vulnerable (VU),VU,No,No,No,1.0,Yes,MS,Fishing,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Ancistrus minutus,Unknown,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,GO,Fishing,Cerrado,Freshwater Fish
+Freshwater Fish,Parodontidae,Apareiodon davisi,Kingfish,Endangered (EN),EN,No,Yes,No,1.0,Yes,CE,Fishing,Caatinga,Freshwater Fish
+Freshwater Fish,Parodontidae,Apareiodon davisi,Kingfish,Endangered (EN),EN,No,Yes,No,1.0,Yes,PB,Fishing,Caatinga,Freshwater Fish
+Freshwater Fish,Parodontidae,Apareiodon vladii,Penknife Fish,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,PR,Fishing,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Parodontidae,Apareiodon vladii,Penknife Fish,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,SP,Fishing,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Characidae,Aphyocheirodon hemigrammus,Minnow,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MS,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Aphyocheirodon hemigrammus,Minnow,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Aphyocheirodon hemigrammus,Minnow,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PR,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Aphyocheirodon hemigrammus,Minnow,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PR,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Aphyocheirodon hemigrammus,Minnow,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Aphyocheirodon hemigrammus,Minnow,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Apteronotidae,Apteronotus acidops,Sarapó,Endangered (EN),EN,No,Yes,No,1.0,Yes,MS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Apteronotidae,Apteronotus acidops,Sarapó,Endangered (EN),EN,No,Yes,No,1.0,Yes,SP,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Apteronotidae,Apteronotus lindalvae,Unknown,Critically Endangered (CR),CR,Yes,Yes,No,2.0,Yes,AM,Fishing,Amazon,Fish
+Aquatic Invertebrates,Astropectinidae,Astropecten articulatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,RJ,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten articulatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,RJ,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten articulatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,SP,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten articulatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,SP,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten brasiliensis,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,BA,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten brasiliensis,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,BA,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten brasiliensis,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,RJ,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten brasiliensis,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,RJ,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten brasiliensis,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,SP,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten brasiliensis,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,SP,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,AL,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,AL,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,AP,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,AP,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,BA,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,BA,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,CE,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,CE,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,ES,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,ES,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,MA,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,MA,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,PA,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,PA,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,PB,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,PB,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,PE,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,PE,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,PI,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,PI,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,PR,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,PR,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,RJ,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,RJ,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,RN,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,RN,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,RS,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,RS,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,SC,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,SC,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,SE,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,SE,Pollution,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,SP,Fishing,Marine,Starfish
+Aquatic Invertebrates,Astropectinidae,Astropecten marginatus,Starfish,Vulnerable (VU),VU,Yes,No,No,2.0,No,SP,Pollution,Marine,Starfish
+Freshwater Fish,Characidae,Astyanax eremus,"Minnow, Piaba",Critically Endangered (CR),CR,Yes,Yes,No,2.0,Yes,PR,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Astyanax eremus,"Minnow, Piaba",Critically Endangered (CR),CR,Yes,Yes,No,2.0,Yes,PR,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Astyanax gymnogenys,Minnow ,Endangered (EN),EN,No,Yes,No,1.0,Yes,PR,Aquaculture Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Astyanax gymnogenys,Minnow ,Endangered (EN),EN,No,Yes,No,1.0,Yes,PR,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Astyanax gymnogenys,Minnow ,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Aquaculture Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Astyanax gymnogenys,Minnow ,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Astyanax jordanensis,Minnow ,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,PR,Aquaculture Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Astyanax jordanensis,Minnow ,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,PR,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Atlantirivulus lazzarotoi,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,Yes,RJ,Aquaculture Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Atlantirivulus lazzarotoi,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,Yes,RJ,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Atlantirivulus maricensis,Unknown,Critically Endangered (CR),CR,No,No,No,1.0,Yes,RJ,Aquaculture Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Atlantirivulus maricensis,Unknown,Critically Endangered (CR),CR,No,No,No,1.0,Yes,RJ,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Atlantirivulus nudiventris,Annual Fish,Critically Endangered (CR),CR,Yes,No,No,1.0,Yes,ES,Aquaculture Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Atlantirivulus nudiventris,Annual Fish,Critically Endangered (CR),CR,Yes,No,No,1.0,Yes,ES,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Atlantirivulus simplicis,Annual Fish,Endangered (EN),EN,No,No,No,1.0,Yes,RJ,Aquaculture Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Atlantirivulus simplicis,Annual Fish,Endangered (EN),EN,No,No,No,1.0,Yes,RJ,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Atlantirivulus simplicis,Annual Fish,Endangered (EN),EN,No,No,No,1.0,Yes,SP,Aquaculture Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Atlantirivulus simplicis,Annual Fish,Endangered (EN),EN,No,No,No,1.0,Yes,SP,Human Settlement,Atlantic Forest,Fish
+Marine Fish,Arhynchobatidae,Atlantoraja castelnaui,Leopard Stingray,Endangered (EN),EN,Yes,Yes,Yes,3.0,No,RS,Pollution,Marine,Rays
+Marine Fish,Arhynchobatidae,Atlantoraja castelnaui,Leopard Stingray,Endangered (EN),EN,Yes,Yes,Yes,3.0,No,PR,Pollution,Marine,Rays
+Marine Fish,Arhynchobatidae,Atlantoraja castelnaui,Leopard Stingray,Endangered (EN),EN,Yes,Yes,Yes,3.0,No,SC,Pollution,Marine,Rays
+Marine Fish,Arhynchobatidae,Atlantoraja castelnaui,Leopard Stingray,Endangered (EN),EN,Yes,Yes,Yes,3.0,No,SP,Pollution,Marine,Rays
+Freshwater Fish,Rivulidae,Austrolebias adloffi,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Mining,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias adloffi,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Pollution,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias alexandri,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,No,RS,Human Settlement,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias alexandri,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,No,RS,Exotic Species,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias alexandri,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,No,RS,Energy production,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias alexandri,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,No,RS,Pollution,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias arachan,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,No,RS,Coral Removal,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias arachan,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,No,RS,Mining,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias arachan,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,No,RS,Transport,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias arachan,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,No,RS,Tourism,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias carvalhoi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,PR,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias carvalhoi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,PR,Mining,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias carvalhoi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,PR,Transport,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias carvalhoi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,PR,Tourism,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias carvalhoi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SC,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias carvalhoi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SC,Mining,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias carvalhoi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SC,Transport,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias carvalhoi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SC,Tourism,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias charrua,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,No,RS,Coral Removal,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias charrua,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,No,RS,Mining,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias charrua,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,No,RS,Transport,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias charrua,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,No,RS,Tourism,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias cheradophilus,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,No,RS,Fishing,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias cheradophilus,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,No,RS,Energy production,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias cyaneus,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,RS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias cyaneus,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,RS,Fishing,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias cyaneus,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,RS,Energy production,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias cyaneus,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,RS,Energy production,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias ibicuiensis,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,RS,Fishing,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias ibicuiensis,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,RS,Energy production,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias jaegari,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,Yes,RS,Fishing,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias jaegari,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,Yes,RS,Energy production,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias juanlangi,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Damming/Drainage,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias juanlangi,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Energy production,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias juanlangi,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Pollution,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias litzi,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,Yes,RS,Agriculture,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias luteoflammulatus,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,No,RS,Tourism,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias melanoorus,Annual Fish,Endangered (EN),EN,No,No,No,1.0,No,RS,Human Settlement,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias minuano,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Tourism,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias minuano,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Pollution,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias nachtigalli,Annual Fish,Endangered (EN),EN,No,No,No,1.0,Yes,RS,Tourism,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias nachtigalli,Annual Fish,Endangered (EN),EN,No,No,No,1.0,Yes,RS,Pollution,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias nigrofasciatus,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Tourism,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias nigrofasciatus,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Pollution,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias paucisquama,Annual Fish,Vulnerable (VU),VU,No,No,No,1.0,Yes,RS,Tourism,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias paucisquama,Annual Fish,Vulnerable (VU),VU,No,No,No,1.0,Yes,RS,Pollution,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias periodicus,Annual Fish,Vulnerable (VU),VU,No,Yes,No,1.0,No,RS,Tourism,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias periodicus,Annual Fish,Vulnerable (VU),VU,No,Yes,No,1.0,No,RS,Pollution,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias prognathus,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,No,RS,Tourism,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias prognathus,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,No,RS,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias univentripinnis,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,Yes,RS,Tourism,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias univentripinnis,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,Yes,RS,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias varzeae,Annual Fish,Vulnerable (VU),VU,No,No,No,1.0,Yes,RS,Tourism,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias varzeae,Annual Fish,Vulnerable (VU),VU,No,No,No,1.0,Yes,RS,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias vazferreirai,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,No,RS,Tourism,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias vazferreirai,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,No,RS,Pollution,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias wolterstorffi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,No,RS,Tourism,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias wolterstorffi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,No,RS,Tourism,Pampa,Fish
+Freshwater Fish,Rivulidae,Austrolebias wolterstorffi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,No,RS,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Austrolebias wolterstorffi,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,No,RS,Pollution,Pampa,Fish
+Freshwater Fish,Pimelodidae,Bagropsis reinhardti,Catfish ,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,MG,Agriculture,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Bagropsis reinhardti,Catfish ,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,MG,Fishing,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Bagropsis reinhardti,Catfish ,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,MG,Pollution,Cerrado,Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Human Settlement,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Mining,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Transport,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Pollution,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,MA,Human Settlement,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,MA,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,MA,Mining,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,MA,Transport,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,MA,Pollution,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,MT,Human Settlement,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,MT,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,MT,Mining,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,MT,Transport,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,MT,Pollution,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Human Settlement,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Mining,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Transport,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Pollution,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Human Settlement,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Mining,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Transport,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus longipinnis,Unknown,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Pollution,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Human Settlement,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Human Settlement,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Fishing,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Mining,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Mining,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Transport,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Transport,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Pollution,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,GO,Pollution,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Human Settlement,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Human Settlement,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Fishing,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Mining,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Mining,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Transport,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Transport,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Pollution,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,PA,Pollution,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Human Settlement,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Human Settlement,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Fishing,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Mining,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Mining,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Transport,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Transport,Cerrado,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Pollution,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Baryancistrus niveatus,Acari,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,Yes,TO,Pollution,Cerrado,Freshwater Fish
+Aquatic Invertebrates,Bouchardiidae,Bouchardia rosea,Unknown,Endangered (EN),EN,Yes,No,No,2.0,Yes,ES,Fishing,Marine,Sharks
+Aquatic Invertebrates,Bouchardiidae,Bouchardia rosea,Unknown,Endangered (EN),EN,Yes,No,No,2.0,Yes,RJ,Fishing,Marine,Sharks
+Aquatic Invertebrates,Bouchardiidae,Bouchardia rosea,Unknown,Endangered (EN),EN,Yes,No,No,2.0,Yes,SP,Fishing,Marine,Sharks
+Aquatic Invertebrates,Bouchardiidae,Bouchardia rosea,Unknown,Endangered (EN),EN,Yes,No,No,2.0,Yes,PR,Fishing,Marine,Sharks
+Aquatic Invertebrates,Bouchardiidae,Bouchardia rosea,Unknown,Endangered (EN),EN,Yes,No,No,2.0,Yes,SC,Fishing,Marine,Sharks
+Aquatic Invertebrates,Bouchardiidae,Bouchardia rosea,Unknown,Endangered (EN),EN,Yes,No,No,2.0,Yes,RS,Fishing,Marine,Sharks
+Freshwater Fish,Hypopomidae,Brachyhypopomus jureiae,Juréia Toothpick Fish,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,SP,Fishing,Atlantic Forest,Electric Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,BA,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,BA,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,BA,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,BA,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,BA,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,BA,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,MG,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,MG,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,MG,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,MG,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,MG,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon devillei,Little Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,MG,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,GO,Fishing,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,GO,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,GO,Coral Removal,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,GO,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,GO,Pollution,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,GO,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,MT,Fishing,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,MT,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,MT,Coral Removal,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,MT,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,MT,Pollution,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,MT,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,PA,Fishing,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,PA,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,PA,Coral Removal,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,PA,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,PA,Pollution,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,PA,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,TO,Fishing,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,TO,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,TO,Coral Removal,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,TO,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,TO,Pollution,Amazon,Fish
+Freshwater Fish,Characidae,Brycon gouldingi,"Matrinxã, Piabanha ",Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,TO,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon insignis,Piabanha,Endangered (EN),EN,No,Yes,No,1.0,Yes,ES,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon insignis,Piabanha,Endangered (EN),EN,No,Yes,No,1.0,Yes,ES,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon insignis,Piabanha,Endangered (EN),EN,No,Yes,No,1.0,Yes,ES,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon insignis,Piabanha,Endangered (EN),EN,No,Yes,No,1.0,Yes,RJ,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon insignis,Piabanha,Endangered (EN),EN,No,Yes,No,1.0,Yes,RJ,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon insignis,Piabanha,Endangered (EN),EN,No,Yes,No,1.0,Yes,RJ,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon insignis,Piabanha,Endangered (EN),EN,No,Yes,No,1.0,Yes,SP,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon insignis,Piabanha,Endangered (EN),EN,No,Yes,No,1.0,Yes,SP,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon insignis,Piabanha,Endangered (EN),EN,No,Yes,No,1.0,Yes,SP,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,GO,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,GO,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,GO,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,GO,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,GO,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,GO,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MG,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MG,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MG,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MG,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MG,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MG,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MS,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MS,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MS,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MS,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,MS,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PR,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PR,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PR,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PR,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PR,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PR,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon nattereri,Pirapitinga,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon opalinus,Pirapitinga,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,SP,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon opalinus,Pirapitinga,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,SP,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon opalinus,Pirapitinga,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,SP,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon opalinus,Pirapitinga,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,SP,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon opalinus,Pirapitinga,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,SP,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon opalinus,Pirapitinga,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,SP,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Fishing,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Fishing,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Coral Removal,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Coral Removal,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Pollution,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,GO,Pollution,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Fishing,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Fishing,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Coral Removal,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Coral Removal,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Pollution,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MG,Pollution,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Fishing,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Fishing,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Coral Removal,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Coral Removal,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Pollution,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Pollution,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Fishing,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Fishing,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Coral Removal,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Coral Removal,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Pollution,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Pollution,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Fishing,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Fishing,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Coral Removal,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Coral Removal,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Pollution,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,RS,Pollution,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Fishing,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Fishing,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Coral Removal,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Coral Removal,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Pollution,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SC,Pollution,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Fishing,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Fishing,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Coral Removal,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Coral Removal,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Coral Removal,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Coral Removal,,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Pollution,Cerrado,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Pollution,Pampa,Fish
+Freshwater Fish,Characidae,Brycon orbignyanus,Piracanjuba,Endangered (EN),EN,Yes,Yes,No,2.0,No,SP,Pollution,,Fish
+Freshwater Fish,Characidae,Brycon vermelha,Red Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,ES,Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon vermelha,Red Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,ES,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon vermelha,Red Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,MG,Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Brycon vermelha,Red Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,MG,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Bryconamericus lambari,Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Mining,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Campellolebias brucei,Annual Fish,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Campellolebias chrysolineatus,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SC,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Campellolebias dorsimaculatus,Annual Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SP,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Rivulidae,Campellolebias intermedius,Annual Fish,Critically Endangered (CR),CR,No,No,No,1.0,Yes,SP,Fishing,Atlantic Forest,Fish
+Marine Fish,Carcharhinidae,Carcharhinus galapagensis,Galapagos Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,PE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,AL,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,AP,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,BA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,CE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,ES,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,MA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PB,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PI,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PR,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,RJ,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,RN,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,SC,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,SE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus longimanus,Whitetip Reef Shark,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,SP,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,AL,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,AP,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,BA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,CE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,ES,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,MA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,PA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,PB,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,PE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,PI,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,PR,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,RJ,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,RN,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,SC,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,SE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus obscurus,Cobbler Shark,Endangered (EN),EN,Yes,Yes,Yes,2.0,No,SP,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,AL,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,AP,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,BA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,CE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,ES,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,MA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PB,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PI,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,RJ,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,RN,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus perezi,Reef Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,SE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,AL,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,AP,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,BA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,ES,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,MA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PB,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PI,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PR,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RJ,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RN,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SC,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus plumbeus,Bigeye Thresher Shark,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SP,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,AL,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,AP,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,BA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,CE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,ES,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,MA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,PA,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,PB,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,PE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,PI,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,PR,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,RJ,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,RN,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,SC,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,SE,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus porosus,Oil Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,SP,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus signatus,Night Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus signatus,Night Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,RS,Fishing,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus signatus,Night Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,SC,Agriculture,Marine,Sharks
+Marine Fish,Carcharhinidae,Carcharhinus signatus,Night Shark,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,SC,Fishing,Marine,Sharks
+Marine Fish,Odontaspididae,Carcharias taurus,Mangona Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,PR,Agriculture,Marine,Sharks
+Marine Fish,Odontaspididae,Carcharias taurus,Mangona Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,PR,Energy production,Marine,Sharks
+Marine Fish,Odontaspididae,Carcharias taurus,Mangona Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Odontaspididae,Carcharias taurus,Mangona Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,RS,Energy production,Marine,Sharks
+Marine Fish,Odontaspididae,Carcharias taurus,Mangona Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,SC,Agriculture,Marine,Sharks
+Marine Fish,Odontaspididae,Carcharias taurus,Mangona Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,SC,Energy production,Marine,Sharks
+Marine Fish,Odontaspididae,Carcharias taurus,Mangona Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,SP,Agriculture,Marine,Sharks
+Marine Fish,Odontaspididae,Carcharias taurus,Mangona Shark,Critically Endangered (CR),CR,Yes,Yes,No,2.0,No,SP,Energy production,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,AL,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,AP,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,BA,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,CE,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,ES,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,MA,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,PA,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,PB,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,PE,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,PI,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,PR,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,RJ,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,RN,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,SC,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,SE,Agriculture,Marine,Sharks
+Marine Fish,Lamnidae,Carcharodon carcharias,Great White Shark,Vulnerable (VU),VU,Yes,Yes,No,3.0,No,SP,Agriculture,Marine,Sharks
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,AL,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,AL,Transport,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,BA,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,BA,Transport,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,CE,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,CE,Transport,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,ES,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,ES,Transport,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,PB,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,PB,Transport,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,PE,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,PE,Transport,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,RJ,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,RJ,Transport,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,RN,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,RN,Transport,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,SC,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,SC,Transport,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,SE,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,SE,Transport,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,SP,Damming/Drainage,Marine,Arthropods
+Aquatic Invertebrates,Gecarcinidae,Cardisoma guanhumi,Swimming Crab,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,SP,Transport,Marine,Arthropods
+Aquatic Invertebrates,Cassidulidae,Cassidulus mitis,Sea Urchin,Endangered (EN),EN,Yes,No,No,2.0,Yes,RJ,Fishing,Marine,Freshwater Fish
+Aquatic Invertebrates,Cassidulidae,Cassidulus mitis,Sea Urchin,Endangered (EN),EN,Yes,No,No,2.0,Yes,SP,Fishing,Marine,Freshwater Fish
+Marine Fish,Microdesmidae,Cerdale fasciata,Striped Wormfish,Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,BA,Agriculture,Marine,Other
+Marine Fish,Microdesmidae,Cerdale fasciata,Striped Wormfish,Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,BA,Human Settlement,Marine,Other
+Marine Fish,Microdesmidae,Cerdale fasciata,Striped Wormfish,Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,BA,Exotic Species,Marine,Other
+Marine Fish,Microdesmidae,Cerdale fasciata,Striped Wormfish,Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,BA,Wildfires,Marine,Other
+Marine Fish,Cetorhinidae,Cetorhinus maximus,Wandering Tattler,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Cetorhinidae,Cetorhinus maximus,Wandering Tattler,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SC,Agriculture,Marine,Sharks
+Freshwater Fish,Crenuchidae,Characidium grajahuensis,Penknife Fish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,RJ,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Crenuchidae,Characidium heirmostigmata,Penknife ,Endangered (EN),EN,No,Yes,No,1.0,Yes,PR,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Crenuchidae,Characidium heirmostigmata,Penknife ,Endangered (EN),EN,No,Yes,No,1.0,Yes,PR,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Crenuchidae,Characidium oiticicai,Penknife ,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Agriculture,Cerrado,Fish
+Freshwater Fish,Crenuchidae,Characidium oiticicai,Penknife ,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Crenuchidae,Characidium oiticicai,Penknife ,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Human Settlement,Cerrado,Fish
+Freshwater Fish,Crenuchidae,Characidium oiticicai,Penknife ,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Crenuchidae,Characidium vestigipinne,Unknown,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,RS,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Heptapteridae,Chasmocranus brachynema,Corydoras,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MG,Fishing,Caatinga,Fish
+Freshwater Fish,Heptapteridae,Chasmocranus brachynema,Corydoras,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MG,Fishing,Cerrado,Fish
+Freshwater Fish,Heptapteridae,Chasmocranus brachynema,Corydoras,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MG,Pollution,Caatinga,Fish
+Freshwater Fish,Heptapteridae,Chasmocranus brachynema,Corydoras,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MG,Pollution,Cerrado,Fish
+Freshwater Fish,Heptapteridae,Chasmocranus brachynema,Corydoras,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,SP,Fishing,Caatinga,Fish
+Freshwater Fish,Heptapteridae,Chasmocranus brachynema,Corydoras,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,SP,Fishing,Cerrado,Fish
+Freshwater Fish,Heptapteridae,Chasmocranus brachynema,Corydoras,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,SP,Pollution,Caatinga,Fish
+Freshwater Fish,Heptapteridae,Chasmocranus brachynema,Corydoras,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,SP,Pollution,Cerrado,Fish
+Marine Fish,Serranidae,Choranthias salmopunctatus,Sea Canary,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PE,Fishing,Marine,Fish
+Marine Fish,Serranidae,Choranthias salmopunctatus,Sea Canary,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PE,Coral Removal,Marine,Fish
+Marine Fish,Serranidae,Choranthias salmopunctatus,Sea Canary,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PE,Transport,Marine,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon carnegiei,Big Belly ,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PR,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon carnegiei,Big Belly ,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PR,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon hypselurus,Big Belly ,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,PR,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon hypselurus,Big Belly ,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,PR,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon iguape,Guarú-de-apiaí,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SP,Aquaculture Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon iguape,Guarú-de-apiaí,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SP,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon iguape,Guarú-de-apiaí,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SP,Mining,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon iguape,Guarú-de-apiaí,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SP,Transport,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon iguape,Guarú-de-apiaí,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,SP,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon omorgmatos,Barrigudinho,Endangered (EN),EN,No,Yes,No,1.0,Yes,PR,Aquaculture Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon omorgmatos,Barrigudinho,Endangered (EN),EN,No,Yes,No,1.0,Yes,PR,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon omorgmatos,Barrigudinho,Endangered (EN),EN,No,Yes,No,1.0,Yes,PR,Mining,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon omorgmatos,Barrigudinho,Endangered (EN),EN,No,Yes,No,1.0,Yes,PR,Transport,Atlantic Forest,Fish
+Freshwater Fish,Poeciliidae,Cnesterodon omorgmatos,Barrigudinho,Endangered (EN),EN,No,Yes,No,1.0,Yes,PR,Pollution,Atlantic Forest,Fish
+Aquatic Invertebrates,Actiniidae,Condylactis gigantea,Giant Anemone,Endangered (EN),EN,Yes,Yes,No,2.0,No,BA,Fishing,Marine,Freshwater Fish
+Aquatic Invertebrates,Actiniidae,Condylactis gigantea,Giant Anemone,Endangered (EN),EN,Yes,Yes,No,2.0,No,BA,Pathogens/Parasites,Marine,Freshwater Fish
+Aquatic Invertebrates,Actiniidae,Condylactis gigantea,Giant Anemone,Endangered (EN),EN,Yes,Yes,No,2.0,No,ES,Fishing,Marine,Freshwater Fish
+Aquatic Invertebrates,Actiniidae,Condylactis gigantea,Giant Anemone,Endangered (EN),EN,Yes,Yes,No,2.0,No,ES,Pathogens/Parasites,Marine,Freshwater Fish
+Aquatic Invertebrates,Actiniidae,Condylactis gigantea,Giant Anemone,Endangered (EN),EN,Yes,Yes,No,2.0,No,RJ,Fishing,Marine,Freshwater Fish
+Aquatic Invertebrates,Actiniidae,Condylactis gigantea,Giant Anemone,Endangered (EN),EN,Yes,Yes,No,2.0,No,RJ,Pathogens/Parasites,Marine,Freshwater Fish
+Freshwater Fish,Pimelodidae,Conorhynchos conirostris,Giant Armadillo,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,AL,Fishing,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Conorhynchos conirostris,Giant Armadillo,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,BA,Fishing,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Conorhynchos conirostris,Giant Armadillo,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,MG,Fishing,Cerrado,Fish
+Freshwater Fish,Pimelodidae,Conorhynchos conirostris,Giant Armadillo,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,PE,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Coptobrycon bilineatus,Two-lined Piquira,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Loricariidae,Corumbataia britskii,Suckerfish,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,MS,Fishing,Cerrado,Freshwater Fish
+Aquatic Invertebrates,Metaniidae,Corvomeyenia epilithosa,Sponge,Vulnerable (VU),VU,Yes,No,No,2.0,Yes,RS,Fishing,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Callichthyidae,Corydoras lacerdai,Unknown,Endangered (EN),EN,Yes,Yes,Yes,3.0,Yes,BA,Fishing,Atlantic Forest,Freshwater Fish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,AL,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,AP,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,BA,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,CE,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,ES,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,MA,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PB,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PE,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PI,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PR,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,RJ,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,RN,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,SC,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,SE,Fishing,Marine,Starfish
+Aquatic Invertebrates,Asteriidae,Coscinasterias tenuispina,Starfish,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,SP,Fishing,Marine,Starfish
+Freshwater Fish,Characidae,Creagrutus varii,Minnow ,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,GO,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Creagrutus varii,Minnow ,Vulnerable (VU),VU,No,Yes,No,1.0,Yes,MG,Fishing,Cerrado,Fish
+Freshwater Fish,Cichlidae,Crenicichla cyclostoma,Unknown,Critically Endangered (CR),CR,No,Yes,Yes,1.0,Yes,PA,Fishing,Amazon,Fish
+Freshwater Fish,Cichlidae,Crenicichla cyclostoma,Unknown,Critically Endangered (CR),CR,No,Yes,Yes,1.0,Yes,PA,Fishing,Cerrado,Fish
+Freshwater Fish,Cichlidae,Crenicichla cyclostoma,Unknown,Critically Endangered (CR),CR,No,Yes,Yes,1.0,Yes,TO,Fishing,Amazon,Fish
+Freshwater Fish,Cichlidae,Crenicichla cyclostoma,Unknown,Critically Endangered (CR),CR,No,Yes,Yes,1.0,Yes,TO,Fishing,Cerrado,Fish
+Freshwater Fish,Cichlidae,Crenicichla empheres,Joana,Vulnerable (VU),VU,No,Yes,Yes,1.0,Yes,RS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Cichlidae,Crenicichla empheres,Joana,Vulnerable (VU),VU,No,Yes,Yes,1.0,Yes,SC,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Cichlidae,Crenicichla hadrostigma,Joana,Vulnerable (VU),VU,No,Yes,Yes,1.0,No,RS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Cichlidae,Crenicichla hadrostigma,Joana,Vulnerable (VU),VU,No,Yes,Yes,1.0,No,SC,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Cichlidae,Crenicichla heckeli,Unknown,Vulnerable (VU),VU,No,Yes,Yes,1.0,Yes,PA,Fishing,Amazon,Fish
+Freshwater Fish,Cichlidae,Crenicichla jegui,Jacundá,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,GO,Energy production,Amazon,Fish
+Freshwater Fish,Cichlidae,Crenicichla jegui,Jacundá,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,GO,Energy production,Cerrado,Fish
+Freshwater Fish,Cichlidae,Crenicichla jegui,Jacundá,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,MT,Energy production,Amazon,Fish
+Freshwater Fish,Cichlidae,Crenicichla jegui,Jacundá,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,MT,Energy production,Cerrado,Fish
+Freshwater Fish,Cichlidae,Crenicichla jegui,Jacundá,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,PA,Energy production,Amazon,Fish
+Freshwater Fish,Cichlidae,Crenicichla jegui,Jacundá,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,PA,Energy production,Cerrado,Fish
+Freshwater Fish,Cichlidae,Crenicichla jegui,Jacundá,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,TO,Energy production,Amazon,Fish
+Freshwater Fish,Cichlidae,Crenicichla jegui,Jacundá,Endangered (EN),EN,No,Yes,Yes,1.0,Yes,TO,Energy production,Cerrado,Fish
+Freshwater Fish,Cichlidae,Crenicichla jupiaensis,Joaninha,Endangered (EN),EN,No,Yes,Yes,1.0,No,MS,Energy production,Cerrado,Fish
+Freshwater Fish,Cichlidae,Crenicichla jupiaensis,Joaninha,Endangered (EN),EN,No,Yes,Yes,1.0,No,MS,Energy production,Atlantic Forest,Fish
+Freshwater Fish,Cichlidae,Crenicichla jupiaensis,Joaninha,Endangered (EN),EN,No,Yes,Yes,1.0,No,PR,Energy production,Cerrado,Fish
+Freshwater Fish,Cichlidae,Crenicichla jupiaensis,Joaninha,Endangered (EN),EN,No,Yes,Yes,1.0,No,PR,Energy production,Atlantic Forest,Fish
+Freshwater Fish,Cichlidae,Crenicichla jupiaensis,Joaninha,Endangered (EN),EN,No,Yes,Yes,1.0,No,SP,Energy production,Cerrado,Fish
+Freshwater Fish,Cichlidae,Crenicichla jupiaensis,Joaninha,Endangered (EN),EN,No,Yes,Yes,1.0,No,SP,Energy production,Atlantic Forest,Fish
+Freshwater Fish,Cichlidae,Crenicichla urosema,Soapfish,Endangered (EN),EN,Yes,Yes,Yes,2.0,Yes,PA,Agriculture,Amazon,Fish
+Freshwater Fish,Rivulidae,Cynolebias griseus,Rain Fish,Critically Endangered (CR),CR,Yes,Yes,No,2.0,Yes,GO,Fishing,Cerrado,Fish
+Freshwater Fish,Rivulidae,Cynolebias leptocephalus,Unknown,Critically Endangered (CR),CR,No,No,No,1.0,Yes,BA,Fishing,Caatinga,Fish
+Freshwater Fish,Rivulidae,Cynolebias leptocephalus,Unknown,Critically Endangered (CR),CR,No,No,No,1.0,Yes,BA,Fishing,Cerrado,Fish
+Freshwater Fish,Rivulidae,Cynopoecilus fulgens,Annual Fish,Vulnerable (VU),VU,No,No,No,1.0,Yes,RS,Fishing,Pampa,Fish
+Freshwater Fish,Rivulidae,Cynopoecilus intimus,Annual Fish,Vulnerable (VU),VU,No,No,No,1.0,Yes,RS,Fishing,Pampa,Fish
+Freshwater Fish,Rivulidae,Cynopoecilus multipapillatus,Annual Fish,Vulnerable (VU),VU,No,No,No,1.0,Yes,RS,Fishing,Pampa,Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,AL,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,AP,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,BA,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,CE,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,ES,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,MA,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PA,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PB,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PE,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PI,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PR,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RJ,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RN,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RS,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SC,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SE,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis centroura,Thorny Stingray,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SP,Fishing,Marine,Freshwater Fish
+Marine Fish,Dasyatidae,Dasyatis colarensis,Stingray,Vulnerable (VU),VU,No,Yes,No,2.0,Yes,PA,Fishing,Marine,Freshwater Fish
+Freshwater Fish,Loricariidae,Delturus parahybae,Suckerfish,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,RJ,Fishing,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Characidae,Diapoma pyrrhopteryx,Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,RS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Diapoma pyrrhopteryx,Minnow,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Fishing,Atlantic Forest,Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,AL,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,AL,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,BA,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,BA,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,ES,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,ES,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,PB,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,PB,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,PE,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,PE,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,PR,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,PR,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,RJ,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,RJ,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,RS,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,RS,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,SC,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,SC,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,SE,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,SE,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,SP,Mining,Marine,Freshwater Fish
+Aquatic Invertebrates,Onuphidae,Diopatra cuprea,Unknown,Vulnerable (VU),VU,Yes,No,No,2.0,No,SP,Energy production,Marine,Freshwater Fish
+Aquatic Invertebrates,Hyriidae,Diplodon (Rhipidodonta) koseritzi,Marsh Mussel,Endangered (EN),EN,Yes,No,No,2.0,Yes,RS,Fishing,Atlantic Forest,Freshwater Fish
+Aquatic Invertebrates,Hyriidae,Diplodon (Rhipidodonta) koseritzi,Marsh Mussel,Endangered (EN),EN,Yes,No,No,2.0,Yes,RS,Fishing,Pampa,Freshwater Fish
+Freshwater Fish,Sternopygidae,Eigenmannia vicentespelaea,Ituí,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,GO,Tourism,Cerrado,Electric Fish
+Freshwater Fish,Sternopygidae,Eigenmannia vicentespelaea,Ituí,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,GO,Pollution,Cerrado,Electric Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,AL,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,AL,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,AL,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,AL,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,AL,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,BA,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,BA,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,BA,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,BA,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,BA,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,CE,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,CE,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,CE,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,CE,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,CE,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,ES,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,ES,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,ES,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,ES,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,ES,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,MA,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,MA,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,MA,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,MA,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,MA,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PA,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PA,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PA,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PA,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PA,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PB,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PB,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PB,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PB,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PB,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PE,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PE,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PE,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PE,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PE,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PI,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PI,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PI,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PI,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PI,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PR,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PR,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PR,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PR,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PR,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RJ,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RJ,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RJ,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RJ,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RJ,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RN,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RN,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RN,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RN,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RN,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SC,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SC,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SC,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SC,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SC,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SE,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SE,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SE,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SE,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SE,Pollution,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SP,Agriculture,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SP,Human Settlement,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SP,Exotic Species,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SP,Industry,Marine,Fish
+Marine Fish,Gobiidae,Elacatinus figaro,Neon Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SP,Pollution,Marine,Fish
+Marine Fish,Tripterygiidae,Enneanectes smithi,Unknown,Vulnerable (VU),VU,Yes,No,Yes,2.0,No,PE,Human Settlement,Marine,Fish
+Marine Fish,Tripterygiidae,Enneanectes smithi,Unknown,Vulnerable (VU),VU,Yes,No,Yes,2.0,No,PE,Pollution,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,AL,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,AL,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,AP,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,AP,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,BA,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,BA,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,CE,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,CE,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,ES,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,ES,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,MA,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,MA,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PA,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PA,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PB,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PB,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PE,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PE,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PI,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PI,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RJ,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RJ,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RN,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RN,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SE,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SE,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SP,Human Settlement,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus itajara,Grouper,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SP,Fishing,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus marginatus,True Grouper,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,ES,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus marginatus,True Grouper,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,RJ,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus marginatus,True Grouper,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,SP,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus marginatus,True Grouper,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PR,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus marginatus,True Grouper,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,SC,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus marginatus,True Grouper,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,RS,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,AL,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,AP,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,BA,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,CE,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,ES,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,MA,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PA,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PB,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PE,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PI,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,PR,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,RJ,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,RN,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,SC,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,SE,Changes in Native Species Dynamics,Marine,Fish
+Marine Fish,Epinephelidae,Epinephelus morio,Grouper ,Vulnerable (VU),VU,Yes,Yes,Yes,3.0,No,SP,Changes in Native Species Dynamics,Marine,Fish
+Aquatic Invertebrates,Eunicidae,Eunice sebastiani,Unknown,Endangered (EN),EN,Yes,No,No,2.0,Yes,SP,Fishing,Marine,Freshwater Fish
+Aquatic Invertebrates,Strombidae,Eustrombus goliath,Little Bishop Hat,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,AL,Fishing,Marine,Other
+Aquatic Invertebrates,Strombidae,Eustrombus goliath,Little Bishop Hat,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,BA,Fishing,Marine,Other
+Aquatic Invertebrates,Strombidae,Eustrombus goliath,Little Bishop Hat,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,CE,Fishing,Marine,Other
+Aquatic Invertebrates,Strombidae,Eustrombus goliath,Little Bishop Hat,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,ES,Fishing,Marine,Other
+Aquatic Invertebrates,Strombidae,Eustrombus goliath,Little Bishop Hat,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PB,Fishing,Marine,Other
+Aquatic Invertebrates,Strombidae,Eustrombus goliath,Little Bishop Hat,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,PE,Fishing,Marine,Other
+Aquatic Invertebrates,Strombidae,Eustrombus goliath,Little Bishop Hat,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,RN,Fishing,Marine,Other
+Aquatic Invertebrates,Strombidae,Eustrombus goliath,Little Bishop Hat,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,SE,Fishing,Marine,Other
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,AP,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,AL,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,BA,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,CE,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,ES,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,MA,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,PA,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,PB,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,PE,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,PI,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,RJ,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,RN,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,SC,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Pectinidae,Euvola ziczac,Vieira,Endangered (EN),EN,Yes,No,No,2.0,No,SP,Fishing,Marine,Invertebrates and Crustaceans
+Marine Fish,Triakidae,Galeorhinus galeus,Smooth Dogfish ,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PR,Agriculture,Marine,Sharks
+Marine Fish,Triakidae,Galeorhinus galeus,Smooth Dogfish ,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,PR,Fishing,Marine,Sharks
+Marine Fish,Triakidae,Galeorhinus galeus,Smooth Dogfish ,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RJ,Agriculture,Marine,Sharks
+Marine Fish,Triakidae,Galeorhinus galeus,Smooth Dogfish ,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RJ,Fishing,Marine,Sharks
+Marine Fish,Triakidae,Galeorhinus galeus,Smooth Dogfish ,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RS,Agriculture,Marine,Sharks
+Marine Fish,Triakidae,Galeorhinus galeus,Smooth Dogfish ,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,RS,Fishing,Marine,Sharks
+Marine Fish,Triakidae,Galeorhinus galeus,Smooth Dogfish ,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SC,Agriculture,Marine,Sharks
+Marine Fish,Triakidae,Galeorhinus galeus,Smooth Dogfish ,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SC,Fishing,Marine,Sharks
+Marine Fish,Triakidae,Galeorhinus galeus,Smooth Dogfish ,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SP,Agriculture,Marine,Sharks
+Marine Fish,Triakidae,Galeorhinus galeus,Smooth Dogfish ,Critically Endangered (CR),CR,Yes,Yes,Yes,2.0,No,SP,Fishing,Marine,Sharks
+Marine Fish,Ariidae,Genidens barbus,Whitefish,Endangered (EN),EN,Yes,Yes,Yes,3.0,No,BA,Fishing,Marine,Other
+Marine Fish,Ariidae,Genidens barbus,Whitefish,Endangered (EN),EN,Yes,Yes,Yes,3.0,No,PR,Fishing,Marine,Other
+Marine Fish,Ariidae,Genidens barbus,Whitefish,Endangered (EN),EN,Yes,Yes,Yes,3.0,No,RS,Fishing,Marine,Other
+Marine Fish,Ariidae,Genidens planifrons,Marine Catfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,RS,Fishing,Marine,Other
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,AL,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,AP,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,BA,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,CE,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,ES,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,MA,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PA,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PB,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PE,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,PI,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,RJ,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,RN,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,SE,Fishing,Marine,Sharks
+Marine Fish,Ginglymostomatidae,Ginglymostoma cirratum,Cave Bottlenose,Vulnerable (VU),VU,Yes,Yes,No,2.0,No,SP,Fishing,Marine,Sharks
+Freshwater Fish,Characidae,Glandulocauda caerulea,Unknown,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,PR,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Trichomycteridae,Glaphyropoma spinosum,Acará Cachimbo ,Vulnerable (VU),VU,Yes,No,No,2.0,Yes,BA,Fishing,Caatinga,Freshwater Fish
+Freshwater Fish,Cichlidae,Gymnogeophagus setequedas,"Botinho, Reco-reco ",Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Cichlidae,Gymnogeophagus setequedas,"Botinho, Reco-reco ",Endangered (EN),EN,Yes,Yes,No,2.0,No,MS,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Cichlidae,Gymnogeophagus setequedas,"Botinho, Reco-reco ",Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Cichlidae,Gymnogeophagus setequedas,"Botinho, Reco-reco ",Endangered (EN),EN,Yes,Yes,No,2.0,No,PR,Pollution,Atlantic Forest,Fish
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,ES,Fishing,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,ES,Pollution,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,PR,Fishing,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,PR,Pollution,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,RJ,Fishing,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,RJ,Pollution,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,RS,Fishing,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,RS,Pollution,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,SC,Fishing,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,SC,Pollution,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,SP,Fishing,Marine,Rays
+Marine Fish,Gymnuridae,Gymnura altavela,Piririca Suckerfish,Critically Endangered (CR),CR,Yes,Yes,Yes,3.0,No,SP,Pollution,Marine,Rays
+Marine Fish,Labridae,Halichoeres rubrovirens,Andirá,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,Yes,ES,Fishing,Marine,Fish
+Aquatic Invertebrates,Halichondriidae,Halichondria (Halichondria) cebimarensis,Sponge,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Fishing,Marine,Invertebrates and Crustaceans
+Aquatic Invertebrates,Halichondriidae,Halichondria (Halichondria) tenebrica,Sponge,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,SP,Fishing,Marine,Invertebrates and Crustaceans
+Freshwater Fish,Loricariidae,Harttia depressa,Bagrinho-do-tietê,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,AM,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Harttia dissidens,Bagrinho-do-tietê,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,PA,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Characidae,Hasemania crenuchoides,Minnow ,Vulnerable (VU),VU,Yes,Yes,No,2.0,Yes,GO,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Hasemania piatan,Unknown,Endangered (EN),EN,No,Yes,No,1.0,Yes,BA,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Doradidae,Hassar shewellkeimi,Cavalo-marinho,Vulnerable (VU),VU,No,Yes,No,1.0,No,MT,Fishing,Amazon,Fish
+Freshwater Fish,Doradidae,Hassar shewellkeimi,Cavalo-marinho,Vulnerable (VU),VU,No,Yes,No,1.0,No,MT,Fishing,Cerrado,Fish
+Freshwater Fish,Loricariidae,Hemiancistrus megalopteryx,Unknown,Endangered (EN),EN,No,Yes,No,1.0,Yes,SC,Fishing,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Loricariidae,Hemipsilichthys gobio,Lambari-listrado,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MG,Mining,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Loricariidae,Hemipsilichthys gobio,Lambari-listrado,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MG,Pollution,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Loricariidae,Hemipsilichthys gobio,Lambari-listrado,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,MG,Pollution,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Loricariidae,Hemipsilichthys gobio,Lambari-listrado,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,RJ,Mining,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Loricariidae,Hemipsilichthys gobio,Lambari-listrado,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,RJ,Pollution,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Loricariidae,Hemipsilichthys gobio,Lambari-listrado,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,RJ,Pollution,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Loricariidae,Hemipsilichthys gobio,Lambari-listrado,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,SP,Mining,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Loricariidae,Hemipsilichthys gobio,Lambari-listrado,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,SP,Pollution,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Loricariidae,Hemipsilichthys gobio,Lambari-listrado,Endangered (EN),EN,Yes,Yes,No,2.0,Yes,SP,Pollution,Atlantic Forest,Freshwater Fish
+Freshwater Fish,Characidae,Henochilus wheatlandii,Bodó-seda,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,MG,Human Settlement,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Henochilus wheatlandii,Bodó-seda,Critically Endangered (CR),CR,No,Yes,No,1.0,Yes,MG,Pollution,Atlantic Forest,Fish
+Freshwater Fish,Heptapteridae,Heptapterus multiradiatus,Imperial Zebra Pleco,Critically Endangered (CR)/Possibly Extinct (PEX),CR/PEX,No,Yes,No,1.0,Yes,SP,Agriculture,Atlantic Forest,Fish
+Freshwater Fish,Heptapteridae,Heptapterus multiradiatus,Imperial Zebra Pleco,Critically Endangered (CR)/Possibly Extinct (PEX),CR/PEX,No,Yes,No,1.0,Yes,SP,Mining,Atlantic Forest,Fish
+Freshwater Fish,Heptapteridae,Heptapterus multiradiatus,Imperial Zebra Pleco,Critically Endangered (CR)/Possibly Extinct (PEX),CR/PEX,No,Yes,No,1.0,Yes,SP,Tourism,Atlantic Forest,Fish
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,AL,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,BA,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,CE,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,ES,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PB,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PE,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PI,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PR,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,RJ,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,RN,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,SC,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,SE,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus erectus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,SP,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus patagonicus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,AL,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus patagonicus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,BA,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus patagonicus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,ES,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus patagonicus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PE,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus patagonicus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PI,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus patagonicus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PR,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus patagonicus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,RJ,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus patagonicus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,SC,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus patagonicus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,SE,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus patagonicus,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,SP,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,AL,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,BA,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,CE,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,ES,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,MA,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PB,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PE,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PI,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,PR,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,RJ,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,RN,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,SC,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,SE,Fishing,Marine,Seahorses
+Marine Fish,Syngnathidae,Hippocampus reidi,Red Tetra,Vulnerable (VU),VU,Yes,Yes,Yes,2.0,No,SP,Fishing,Marine,Seahorses
+Freshwater Fish,Characidae,Hollandichthys taramandahy,Timburé,Endangered (EN),EN,Yes,Yes,Yes,2.0,Yes,RS,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Hollandichthys taramandahy,Timburé,Endangered (EN),EN,Yes,Yes,Yes,2.0,Yes,RS,Fishing,Pampa,Fish
+Freshwater Fish,Characidae,Hollandichthys taramandahy,Timburé,Endangered (EN),EN,Yes,Yes,Yes,2.0,Yes,SC,Fishing,Atlantic Forest,Fish
+Freshwater Fish,Characidae,Hollandichthys taramandahy,Timburé,Endangered (EN),EN,Yes,Yes,Yes,2.0,Yes,SC,Fishing,Pampa,Fish
+Freshwater Fish,Loricariidae,Hopliancistrus tricornis,Black Grouper ,Endangered (EN),EN,Yes,Yes,Yes,2.0,Yes,PA,Fishing,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Hypancistrus zebra,True Grouper,Critically Endangered (CR),CR,No,Yes,Yes,2.0,Yes,PA,Human Settlement,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Hypancistrus zebra,True Grouper,Critically Endangered (CR),CR,No,Yes,Yes,2.0,Yes,PA,Mining,Amazon,Freshwater Fish
+Freshwater Fish,Loricariidae,Hypancistrus zebra,True Grouper,Critically Endangered (CR),CR,No,Yes,Yes,2.0,Yes,PA,Pollution,Amazon,Freshwater Fish
+Freshwater Fish,Characidae,Hyphessobrycon coelestinus,Unknown,Endangered (EN),EN,Yes,Yes,Yes,2.0,Yes,DF,Fishing,Cerrado,Fish
+Freshwater Fish,Characidae,Hyphessobrycon coelestinus,Unknown,Endangered (EN),EN,Yes,Yes,Yes,2.0,Yes,GO,Fishing,Cerrado,Fish
